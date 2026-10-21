@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-21",
+  "products": [
+    {
+      "id": "videodown",
+      "name": "VideoDown",
+      "icon": "https://raw.githubusercontent.com/englishhearhub/UnfollowX-site/main/promo/icons/videodown.png",
+      "url": "https://github.com/englishhearhub/videodown",
+      "desc": {
+        "zh_CN": "一键下载 X（Twitter）推文中的图片和视频：图片原始尺寸、视频最高码率，自动命名归档。",
+        "zh_TW": "一鍵下載 X（Twitter）推文中的圖片和影片：圖片原始尺寸、影片最高碼率，自動命名歸檔。",
+        "en": "One-click download of images and videos from X (Twitter): original size, highest bitrate, auto-organized.",
+        "ja": "X（Twitter）の画像と動画をワンクリックで保存：原寸画像・最高ビットレート動画・自動整理。",
+        "ko": "X(Twitter) 게시물의 이미지와 동영상을 원클릭 다운로드: 원본 크기, 최고 비트레이트, 자동 정리.",
+        "de": "Bilder und Videos von X (Twitter) mit einem Klick herunterladen: Originalgröße, höchste Bitrate, automatisch organisiert.",
+        "fr": "Téléchargez images et vidéos de X (Twitter) en un clic : taille originale, meilleur débit, organisation automatique.",
+        "es": "Descarga imágenes y vídeos de X (Twitter) con un clic: tamaño original, máxima tasa de bits, organización automática.",
+        "it": "Scarica immagini e video da X (Twitter) con un clic: dimensione originale, bitrate massimo, archiviazione automatica.",
+        "pt_BR": "Baixe imagens e vídeos do X (Twitter) com um clique: tamanho original, maior taxa de bits, organização automática.",
+        "ru": "Скачивайте изображения и видео с X (Twitter) в один клик: исходный размер, максимальный битрейт, авто-организация.",
+        "pl": "Pobieraj obrazy i wideo z X (Twitter) jednym kliknięciem: oryginalny rozmiar, najwyższy bitrate, automatyczna archiwizacja.",
+        "tr": "X'ten (Twitter) tek tıkla resim ve video indirin: orijinal boyut, en yüksek bit hızı, otomatik arşivleme.",
+        "th": "ดาวน์โหลดรูปและวิดีโอจาก X (Twitter) ในคลิกเดียว: ขนาดต้นฉบับ บิตเรตสูงสุด จัดเก็บอัตโนมัติ"
+      }
+    },
+    {
+      "id": "unfollowx",
+      "name": "UnfollowX",
+      "icon": "https://raw.githubusercontent.com/englishhearhub/UnfollowX-site/main/promo/icons/unfollowx.png",
+      "url": "https://github.com/4111y80y/unfollowX",
+      "desc": {
+        "zh_CN": "一键取关未回关的人、自动回关粉丝，真人操作节奏批量管理你的 X 关注列表。",
+        "zh_TW": "一鍵取关未回關的人、自動回關粉絲，真人操作節奏批量管理你的 X 關注列表。",
+        "en": "Unfollow non-followers and follow back fans on X — human-paced, with live stats and a full activity log.",
+        "ja": "フォローバックされないアカウントを一括取り消し、ファンを自動フォローバック。人間らしいペースで統計とログ付き。",
+        "ko": "맞팔하지 않는 계정을 일괄 언팔로우하고 팬을 자동 맞팔. 실시간 통계와 전체 활동 로그 제공.",
+        "de": "Entfolge Nicht-Followern und folge Fans zurück auf X – in menschlichem Tempo, mit Live-Statistiken und Aktivitätsprotokoll.",
+        "fr": "Ne plus suivre les comptes qui ne vous suivent pas et suivre vos fans en retour sur X — rythme humain, stats en direct et journal complet.",
+        "es": "Deja de seguir a quien no te sigue y sigue a tus fans en X: ritmo humano, estadísticas en vivo y registro completo.",
+        "it": "Smetti di seguire chi non ti segue e ricambia i fan su X: ritmo umano, statistiche live e registro completo.",
+        "pt_BR": "Deixe de seguir quem não te segue e siga seus fãs de volta no X — ritmo humano, estatísticas ao vivo e registro completo.",
+        "ru": "Отписывайтесь от тех, кто не подписан в ответ, и подписывайтесь на фанатов в X: человеческий темп, статистика и журнал.",
+        "pl": "Przestań obserwować tych, którzy nie odwzajemniają, i odwzajemniaj fanów na X: ludzkie tempo, statystyki na żywo i pełny dziennik.",
+        "tr": "X'te seni takip etmeyenleri takibi bırak, hayranlarını geri takip et: insan temposunda, canlı istatistikler ve tam kayıt ile.",
+        "th": "เลิกติดตามคนที่ไม่ฟอลกลับ และฟอลกลับแฟน ๆ บน X — จังหวะแบบมนุษย์ พร้อมสถิติสดและบันทึกครบถ้วน"
+      }
+    }
+  ]
+}
