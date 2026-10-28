@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-28",
   "products": [
     {
       "id": "videodown",
@@ -44,6 +44,28 @@
         "pl": "Przestań obserwować tych, którzy nie odwzajemniają, i odwzajemniaj fanów na X: ludzkie tempo, statystyki na żywo i pełny dziennik.",
         "tr": "X'te seni takip etmeyenleri takibi bırak, hayranlarını geri takip et: insan temposunda, canlı istatistikler ve tam kayıt ile.",
         "th": "เลิกติดตามคนที่ไม่ฟอลกลับ และฟอลกลับแฟน ๆ บน X — จังหวะแบบมนุษย์ พร้อมสถิติสดและบันทึกครบถ้วน"
+      }
+    },
+    {
+      "id": "cleanx",
+      "name": "CleanX",
+      "icon": "https://raw.githubusercontent.com/englishhearhub/UnfollowX-site/main/promo/icons/cleanx.png",
+      "url": "https://github.com/englishhearhub/cleanX",
+      "desc": {
+        "zh_CN": "净化 X（Twitter）界面：隐藏浏览量与互动数字、精简导航、Zen 专注写作，让 X 更清爽。",
+        "zh_TW": "淨化 X（Twitter）介面：隱藏瀏覽量與互動數字、精簡導覽列、Zen 專注寫作，讓 X 更清爽。",
+        "en": "Declutter X (Twitter): hide view & engagement counts, streamline navigation, and write distraction-free in Zen mode.",
+        "ja": "X（Twitter）をすっきり：閲覧数・エンゲージメント数を非表示、ナビを整理、Zen モードで集中投稿。",
+        "ko": "X(Twitter) 깔끔하게: 조회수·반응 숫자 숨기기, 내비게이션 정리, Zen 모드로 집중 작성.",
+        "de": "X (Twitter) aufräumen: Aufruf- und Interaktionszahlen ausblenden, Navigation verschlanken, im Zen-Modus ablenkungsfrei schreiben.",
+        "fr": "Épurez X (Twitter) : masquez les vues et compteurs, simplifiez la navigation et écrivez sans distraction en mode Zen.",
+        "es": "Limpia X (Twitter): oculta vistas y contadores, simplifica la navegación y escribe sin distracciones con el modo Zen.",
+        "it": "Ripulisci X (Twitter): nascondi visualizzazioni e contatori, semplifica la navigazione e scrivi senza distrazioni con la modalità Zen.",
+        "pt_BR": "Despolua o X (Twitter): oculte visualizações e contadores, simplifique a navegação e escreva sem distrações no modo Zen.",
+        "ru": "Очистите X (Twitter): скройте просмотры и счётчики, упростите навигацию и пишите без отвлечений в режиме Zen.",
+        "pl": "Odchudź X (Twitter): ukryj wyświetlenia i liczniki, uprość nawigację i pisz bez rozpraszania w trybie Zen.",
+        "tr": "X'i (Twitter) sadeleştirin: görüntülenme ve etkileşim sayılarını gizleyin, gezintiyi sadeleştirin ve Zen modunda dikkat dağılmadan yazın.",
+        "th": "ทำให้ X (Twitter) เรียบง่าย: ซ่อนยอดดูและตัวเลขอินเทอร์แอกชัน ปรับเมนูนำทาง และเขียนโพสต์แบบไม่เสียสมาธิด้วยโหมด Zen"
       }
     }
   ]
