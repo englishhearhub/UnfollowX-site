@@ -1,6 +1,22 @@
 {
   "version": 1,
   "updatedAt": "2026-10-28",
+  "sectionTitle": {
+    "zh_CN": "更多工具",
+    "zh_TW": "更多工具",
+    "en": "More tools",
+    "ja": "その他のツール",
+    "ko": "더 많은 도구",
+    "de": "Weitere Tools",
+    "fr": "Plus d'outils",
+    "es": "Más herramientas",
+    "it": "Altri strumenti",
+    "pt_BR": "Mais ferramentas",
+    "ru": "Другие инструменты",
+    "pl": "Więcej narzędzi",
+    "tr": "Diğer araçlar",
+    "th": "เครื่องมือเพิ่มเติม"
+  },
   "products": [
     {
       "id": "videodown",
